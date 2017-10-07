@@ -1,6 +1,8 @@
 # Keras-LSTM-Sentiment-Classification
 Using Deep Learning Neural Networks to classify reviews of movie dataset to Positive and Negative Sentiment.
 
+We are using keras that act as a Wrapper on top of Theano/Tensorflow to create ML models easily as creating models using Theano or Tensorflow requires a lot of code to be written.
+
 Requirements -
 1. Python 3
 2. Google word vectors (https://code.google.com/archive/p/word2vec/)
