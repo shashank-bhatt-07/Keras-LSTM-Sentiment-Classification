@@ -10,4 +10,6 @@ Requirements -
 Here we have used LSTM that are best RNN for doing text classification. Its a binary class problem i.e positive and Negative sentiment.
 I was able to get 90% accuracy. But we can improve it more my creating more complex model and tuning the hyper parameters.
 
+
+Just run Keras-LSTM-Sentiment-classification.ipynb notebook and check the results.
 Happy Learning.
